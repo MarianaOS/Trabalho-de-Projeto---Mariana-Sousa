@@ -9,3 +9,9 @@ Dataset 2 - Digital images of defective and good condition tyres (Pathmanaban et
 
 Dataset 3 - TyreNet: A High-quality Annotated Dataset for Tyre Defect Classification with Deep Learning Models (Mahendrada et al., 2024) - https://data.mendeley.com/datasets/32b5vfj6tc/1
 
+
+Para a utilização das camadas RandomErasing e RandomPerspective utilizaram-se os códigos fonte disponíveis em:
+
+RandomErasing - https://github.com/keras-team/keras/blob/v3.12.0/keras/src/layers/preprocessing/image_preprocessing/random_erasing.py#L8
+
+RandomPerspeective - https://github.com/keras-team/keras/blob/v3.12.0/keras/src/layers/preprocessing/image_preprocessing/random_perspective.py#L15
